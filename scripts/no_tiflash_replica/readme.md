@@ -1,0 +1,2 @@
+检查表是否没有TiFlash Replica
+打印出所有没有TiFlash副本的库名及表名
